@@ -1,10 +1,13 @@
-# ConsoleApp-GuessANumber
+## TITLE
+
 Console Application in .NET Framework - Guess a number between 1 and 10.
 
-## DEVELOPMENT
-1. .NET Framework 
-2. C# programming language
-3. Visual Studio IDE
+## TECHNOLOGIES USED
 
-## DISCLAIMER
-This project cannot be used, modified and distributed by anyone. This project is owner of Matija Marić.
+- .NET Framework 
+- C# programming language
+- Visual Studio IDE
+
+## OWNER
+
+- Matija Marić
